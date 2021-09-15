@@ -14,10 +14,15 @@
     <EnforceCodeStyleInBuild>True</EnforceCodeStyleInBuild>
     <AnalysisLevel>preview</AnalysisLevel>
     <LangVersion>preview</LangVersion>
+    <PackageProjectUrl>https://github.com/kzorin52/DeBank</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
     <None Include="E:\hero.e84c6291.jpg">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <None Include="E:\Readme.md">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>
